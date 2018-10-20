@@ -6,4 +6,5 @@ git is really fierce.
 creating a new branch is quick.
 creating a new branch is quick.
 creating a new branch is quick and fierce.
-
+creating a new branch is quick and fierce.
+creating a new branch is quick and fierce.
